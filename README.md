@@ -40,7 +40,5 @@ Project is created with:
 To run this project, just run the functions at the bottom of code and call "item_based_recommender". That's it!
 
 ## Developments 
-It can be achieved more precise results merging both item-based and user-based recommendation by calculating "Weighted Average Recommendation Score". It will be developed on next project that I will do. It can become more likely a recommendation system like Netflix uses. For now, it is just simple version of item-based recommendation system
-
-
+It can be achieved more precise results merging both item-based and user-based recommendation by calculating "Weighted Average Recommendation Score" and correlations. It is developed based on the previous projects. It become more likely a recommendation system like Netflix uses which is a hybrid system.
 
