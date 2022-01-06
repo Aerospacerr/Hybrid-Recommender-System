@@ -1,7 +1,7 @@
 # Hybrid Recommendation System
 
 <p align="center">
-	<img src="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/330077673/figure/fig5/AS:710433577107459@1546391972632/A-hybrid-paper-recommendation-system.png" />
+	<img src="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/330077673/figure/fig5/AS:710433577107459@1546391972632/A-hybrid-paper-recommendation-system.png" /> 
 
 </p>
 
